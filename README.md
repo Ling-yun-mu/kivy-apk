@@ -1,0 +1,2 @@
+# kivy-apk
+本资源提供python打包.apk文件配置环境时所需要的所有资源。包括：kivy_deps.glew-0.2.0-cp37-cp37m-win_amd64.whl、kivy_deps.glew-0.2.0-cp37-cp37m-win_amd64.whl、kivy_deps.gstreamer-0.2.0-cp37-cp37m-win_amd64.whl、kivy_deps.sdl2-0.2.0-cp37-cp37m-win_amd64.whl、VirtualBox-4.3.12-93733-Win、Oracle_VM_VirtualBox_Extension_Pack-4.3.12-93733.vbox-extpack、kivydev.ova、以及一些工程示例。相应文章链接：https://blog.csdn.net/qq_43551034/article/details/104839917
